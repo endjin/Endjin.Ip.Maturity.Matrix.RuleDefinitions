@@ -1,0 +1,4 @@
+# The content in this repository is accessed directly through GitHub raw URLs,
+# so it's better if what we see in our working folders reflects what's really
+# in the repo, so we don't want automatic CRLF substitution.
+* -text
