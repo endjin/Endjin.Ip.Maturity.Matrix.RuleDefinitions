@@ -142,17 +142,20 @@
     DataType: Discrete
     Measures:
         -
-            Score: 0
-            Description: None
-        -
-            Score: 1
-            Description: 'Using an unsupported version'
+            Score: 3
+            Framework: 'netcoreapp3.1'
+            Description: 'Using the most current LTS version'
         -
             Score: 2
+            Framework: 'netcoreapp2.1'
             Description: 'Using a LTS version'
         -
-            Score: 3
-            Description: 'Using the most current LTS version'
+            Score: 1
+            Framework: '*'
+            Description: 'Using an unsupported version'
+        -
+            Score: 0
+            Description: None
 -
     Name: 'Associated Work Items'
     Id: 79b8ff50-7378-4f29-b07c-bcd80746bfd4
