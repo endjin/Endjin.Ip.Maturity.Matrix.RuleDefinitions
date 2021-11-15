@@ -143,11 +143,11 @@
     Measures:
         -
             Score: 3
-            Framework: 'netcoreapp3.1'
+            Framework: 'netcoreapp6.0'
             Description: 'Using the most current LTS version'
         -
             Score: 2
-            Framework: 'netcoreapp2.1'
+            Framework: 'netcoreapp3.1'
             Description: 'Using a LTS version'
         -
             Score: 1
