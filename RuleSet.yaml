@@ -143,6 +143,11 @@
     Measures:
         -
             Score: 3
+            Framework: 'net6.0'
+            Description: 'Using the most current LTS version'
+        -
+            Score: 3
+            # Kept for backwards compatibility due to getting this wrong earlier
             Framework: 'netcoreapp6.0'
             Description: 'Using the most current LTS version'
         -
