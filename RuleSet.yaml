@@ -53,7 +53,7 @@
             Description: '51-75'
         -
             Score: 3
-            Description: '75+'
+            Description: '>75'
 -
     Name: Benchmarks
     Id: 64ed80dc-d354-45a9-9a56-c32437306afa
