@@ -282,3 +282,15 @@
         -
             Score: 1
             Description: 'Multi-tenanted - as a Service'
+- 
+    Name: OpenChain
+    Id: 66efac1a-662c-40cf-b4ec-8b34c29e9fd7
+    DataType: Discrete
+    CanOptOut: false
+    Measures:
+        -
+            Score: 0
+            Description: SBOM Not Available
+        - 
+            Score: 1
+            Description: SBOM Available
